@@ -1,5 +1,6 @@
 # Face Recognition Attandence System  | AGH Software Studio Project
 *  By: Edibe Tutku Gayda, Eunseo Ko, Małgorzata Kuczera
+* Original Documentation [SS2023_Ko_Kuczera_Gayda_SpreadSheet](https://github.com/Kylean01110/AGH-Software-Studio---Face-Regonition-Project/files/11216785/SS2023.Ko_Kuczera_Gayda_User_Stories.xlsx)
 ## Project Description 
 * Facial Detection and Facial Recognition are computer technologies used to detect human faces in a digital image or video and identify or confirm a person's identity using 
 their face respectively. Today, these technologies are widely used. Such as face unlock used on smartphones and face detection in temperature scanner which was widespread 
@@ -17,6 +18,7 @@ or any place that requires security.
 * Project Description 
 * OpenCV, which is a popular computer vision library in Python.
 * Firebase Real Time Database, which is a NoSQL cloud database.
+
 
 
 
