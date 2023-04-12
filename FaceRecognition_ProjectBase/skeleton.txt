@@ -1,0 +1,12 @@
+Add Admin SDK to connect with firebase real-time database (line1,2,5,6)
+
+Create database reference (line3)
+
+Reference path to the database (line10)
+
+Data in dictionary(json format) 
+key : value[id] (another json with key[details like name,total attendance..]: value[input])
+
+(send data to database)
+1. unzip dictionary
+2. use .child() send data to specific directory so inside .child() key and set the value using .set(value)
