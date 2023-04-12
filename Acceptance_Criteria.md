@@ -1,18 +1,18 @@
 # Acceptance Criteria 
 1. **As a User** I want to be able to access to the *_real-time_* database that is linked with the face recognition attendance system so that I can see people in my database.
-              - [ ] User must register to Firebase to create a real-time database.
-              - [ ] User must generate a private key and Admin SDK configuration must be added to the python file that is connected to the database.
+      - [ ] User must register to Firebase to create a real-time database.
+      - [ ] User must generate a private key and Admin SDK configuration must be added to the python file that is connected to the database.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 2.  **As a User** I want to be able to *_choose the camera_* which connects to the software so that I could use the preferable device. 
-                  * User cannot use a camera which has an issue while connecting with the system.
+* User cannot use a camera which has an issue while connecting with the system.
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 4.  **As a User** I want to be able to *_add data about people_* in my database so that the information about them would be stored in one place.
-                  * User cannot add data if he/she doesn't have an access to the data. 
-                  * User can decide on what kind of details will be stored but ID and name must be included to verify identity. 
-                  * Personal data must be in JSON format where key is the ID number and value is another key-value pair of people's details.
+                  - User cannot add data if he/she doesn't have an access to the data. 
+                  - User can decide on what kind of details will be stored but ID and name must be included to verify identity. 
+                  - Personal data must be in JSON format where key is the ID number and value is another key-value pair of people's details.
 --------------------------------------------------------------------------------------------------------------------------------------------------
 5.  **As a User** I want to be able to add new people to my database so that they would also be included.
                   * To add a new person the User needs to provide ID number and the name.
