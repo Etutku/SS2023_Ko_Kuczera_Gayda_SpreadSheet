@@ -4,6 +4,8 @@
    - [x] lkdlf
  - [x] User must generate a private key and Admin SDK configuration must be added to the python file that is connected to the database.
 
+-------------------------------------------------------------------------------------------------------------------------
+
 2.  **As a User** I want to be able to *_choose the camera_* which connects to the software so that I could use the preferable device. 
                   * User cannot use a camera which has an issue while connecting with the system.
 
