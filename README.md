@@ -4,8 +4,8 @@
 
 | No. | Table of Contents                                                                   |
 | --- | ----------------------------------------------------------------------- |
-| 1   | [**User Stories**](#user-information)                               |
-| 2   | [**Acceptance Criteria**](#file-and-directory-commands)         |                                                 
+| 1   | [**User Stories**](#User_Stories.md)                               |
+| 2   | [**Acceptance Criteria**](#Acceptance_Criteria.md)         |                                                 
 
 ## Project Description 
 * Facial Detection and Facial Recognition are computer technologies used to detect human faces in a digital image or video and identify or confirm a person's identity using 
