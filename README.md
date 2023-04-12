@@ -1,7 +1,7 @@
 # Face Recognition Attandence System  | AGH Software Studio Project
 *  By: Edibe Tutku Gayda, Eunseo Ko, Małgorzata Kuczera
 * Original Documentation: [**SS2023_Ko_Kuczera_Gayda_SpreadSheet**](https://github.com/Kylean01110/AGH-Software-Studio---Face-Regonition-Project/files/11216785/SS2023.Ko_Kuczera_Gayda_User_Stories.xlsx)
-* Project Documentation: [ProjectBase](C:\Users\Judas\OneDrive\Masaüstü\FaceRecognition_ProjectBase)
+* Project Documentation: [ProjectBase](https://github.com/Kylean01110/SS2023_Ko_Kuczera_Gayda_SpreadSheet/tree/main/FaceRecognition_ProjectBase)
 
 
 | No. | Table of Contents                                                                   |
