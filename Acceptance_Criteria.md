@@ -1,8 +1,7 @@
 # Acceptance Criteria 
 1. **As a User** I want to be able to access to the *_real-time_* database that is linked with the face recognition attendance system so that I can see people in my database.
- - [x] User must register to Firebase to create a real-time database.
-   - [x] lkdlf
- - [x] User must generate a private key and Admin SDK configuration must be added to the python file that is connected to the database.
+ - [ ] User must register to Firebase to create a real-time database.
+ - [ ] User must generate a private key and Admin SDK configuration must be added to the python file that is connected to the database.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
