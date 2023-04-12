@@ -1,12 +1,13 @@
 # Face Recognition Attandence System  | AGH Software Studio Project
 *  By: Edibe Tutku Gayda, Eunseo Ko, Małgorzata Kuczera
-* Original Documentation: [SS2023_Ko_Kuczera_Gayda_SpreadSheet](https://github.com/Kylean01110/AGH-Software-Studio---Face-Regonition-Project/files/11216785/SS2023.Ko_Kuczera_Gayda_User_Stories.xlsx)
-
+* Original Documentation: [**SS2023_Ko_Kuczera_Gayda_SpreadSheet**](https://github.com/Kylean01110/AGH-Software-Studio---Face-Regonition-Project/files/11216785/SS2023.Ko_Kuczera_Gayda_User_Stories.xlsx)
+------------------------------------------------------------------------------------------------------------------------------------------
 | No. | Table of Contents                                                                   |
 | --- | ----------------------------------------------------------------------- |
-| 1   | [**User Stories**](#User_Stories.md)                               |
-| 2   | [**Acceptance Criteria**](#Acceptance_Criteria.md)         |                                                 
-
+| 1   | [**Project Description**]([[SS2023]Ko_Kuczera_Gayda_User_Stories - Description.pdf](https://github.com/Kylean01110/AGH-Software-Studio---Face-Regonition-Project/files/11216815/SS2023.Ko_Kuczera_Gayda_User_Stories.-.Description.pdf)  
+| 2   | [**User Stories**](https://github.com/Kylean01110/AGH-Software-Studio---Face-Regonition-Project/files/11216818/SS2023.Ko_Kuczera_Gayda_User_Stories.-.Acceptance.Criteria.pdf) |
+| 3   | [**Acceptance Criteria**](https://github.com/Kylean01110/AGH-Software-Studio---Face-Regonition-Project/files/11216821/SS2023.Ko_Kuczera_Gayda_User_Stories.-.Acceptance.Criteria.pdf)   |                                                 
+-----------------------------------------------------------------------------------------------------------------------------------------
 ## Project Description 
 * Facial Detection and Facial Recognition are computer technologies used to detect human faces in a digital image or video and identify or confirm a person's identity using 
 their face respectively. Today, these technologies are widely used. Such as face unlock used on smartphones and face detection in temperature scanner which was widespread 
