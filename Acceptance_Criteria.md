@@ -1,7 +1,7 @@
 # Acceptance Criteria 
-1.  **As a User** I want to be able to access to the *_real-time_* database that is linked with the face recognition attendance system so that I can see people in my database.
-[x]User must register to Firebase to create a real-time database.
-[x]User must generate a private key and Admin SDK configuration must be added to the python file that is connected to the database.
+1. **As a User** I want to be able to access to the *_real-time_* database that is linked with the face recognition attendance system so that I can see people in my database.
+  * User must register to Firebase to create a real-time database.
+  * User must generate a private key and Admin SDK configuration must be added to the python file that is connected to the database.
 
 2.  **As a User** I want to be able to *_choose the camera_* which connects to the software so that I could use the preferable device. 
                   * User cannot use a camera which has an issue while connecting with the system.
