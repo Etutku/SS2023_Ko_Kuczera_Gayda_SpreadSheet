@@ -20,17 +20,17 @@
 
 | No. | As a | I want (to able to) | so that |
 | --- | ---- | ------------------- |-------- |
-| 1   | **User** | database that will automatically upload data to the face recognition system up-to-date  |I don't need to manually input them again. |
-| 2   | **User** | ------------------- |-------- |
-| 3   | **User** | ------------------- |-------- |
-| 4   | **User** | ------------------- |-------- |
-| 5   | **User** | ------------------- |-------- |
-| 6   | **User** | ------------------- |-------- |
-| 7   | **User** | ------------------- |-------- |
-| 8   | User | ------------------- |-------- |
-| 9   | User | ------------------- |-------- |
-| 10  | User | ------------------- |-------- |
-| 11  | User | ------------------- |-------- |
-| 12  | User | ------------------- |-------- |
-| 13  | User | ------------------- |-------- |
-| 14  | User | ------------------- |-------- |
+| **1**   | **User** | database that will automatically upload data to the face recognition system up-to-date  |I don't need to manually input them again. |
+| **2**   | **User** | add people's details and make modification to my database |the database would include people and data necessary for my purpose of using this system. |
+| **3**   | **User** | ------------------- |-------- |
+| **4**   | **User** | ------------------- |-------- |
+| **5**   | **User** | ------------------- |-------- |
+| **6**   | **User** | ------------------- |-------- |
+| **7**   | **User** | ------------------- |-------- |
+| **8**   | **User** | ------------------- |-------- |
+| **9**   | **User** | ------------------- |-------- |
+| **10**  | **User** | ------------------- |-------- |
+| **11**  | **User** | ------------------- |-------- |
+| **12**  | **User** | ------------------- |-------- |
+| **13**  | **User** | ------------------- |-------- |
+| **14**  | **User** | ------------------- |-------- |
