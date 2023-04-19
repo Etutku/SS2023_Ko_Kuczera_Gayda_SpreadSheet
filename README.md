@@ -6,9 +6,9 @@
 
 | No. | Table of Contents                                                                   |
 | --- | ----------------------------------------------------------------------- |
-| 1   | [**Project Description**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/Acceptance_Criteria.md)  
-| 2   | [**User Stories**](https://github.com/Kylean01110/AGH-Software-Studio---Face-Regonition-Project/files/11216818/SS2023.Ko_Kuczera_Gayda_User_Stories.-.Acceptance.Criteria.pdf) |
-| 3   | [**Acceptance Criteria**](https://github.com/Kylean01110/AGH-Software-Studio---Face-Regonition-Project/files/11216821/SS2023.Ko_Kuczera_Gayda_User_Stories.-.Acceptance.Criteria.pdf)   |                                                 
+| 1   | [**Project Description**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/README.md)  
+| 2   | [**User Stories**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/User_Stories.md) |
+| 3   | [**Acceptance Criteria**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/Acceptance_Criteria.md)   |                                                 
 
 ## Project Description 
 * Facial Detection and Facial Recognition are computer technologies used to detect human faces in a digital image or video and identify or confirm a person's identity using 
