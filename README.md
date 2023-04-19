@@ -6,7 +6,7 @@
 
 | No. | Table of Contents                                                                   |
 | --- | ----------------------------------------------------------------------- |
-| 1   | [**Project Description**](https://github.com/Kylean01110/AGH-Software-Studio---Face-Regonition-Project/files/11216815/SS2023.Ko_Kuczera_Gayda_User_Stories.-.Description.pdf)  
+| 1   | [**Project Description**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/Acceptance_Criteria.md)  
 | 2   | [**User Stories**](https://github.com/Kylean01110/AGH-Software-Studio---Face-Regonition-Project/files/11216818/SS2023.Ko_Kuczera_Gayda_User_Stories.-.Acceptance.Criteria.pdf) |
 | 3   | [**Acceptance Criteria**](https://github.com/Kylean01110/AGH-Software-Studio---Face-Regonition-Project/files/11216821/SS2023.Ko_Kuczera_Gayda_User_Stories.-.Acceptance.Criteria.pdf)   |                                                 
 
