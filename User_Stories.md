@@ -17,3 +17,20 @@
 16. **As a User** I want to be able to view data about specific person in my database so that I can find the information I'm currently looking for.
 17. **As a User** I want to be able to see when was the last time someone was present so that I don't have to check it manually.
 18. **As a User** I want to be able to see how many people are in my database so that I don't have to count them manually.
+
+| No. | As a | I want (to able to) | so that |
+| --- | ---- | ------------------- |-------- |
+| 1   | **User** | database that will automatically upload data to the face recognition system up-to-date  |I don't need to manually input them again. |
+| 2   | **User** | ------------------- |-------- |
+| 3   | **User** | ------------------- |-------- |
+| 4   | **User** | ------------------- |-------- |
+| 5   | **User** | ------------------- |-------- |
+| 6   | **User** | ------------------- |-------- |
+| 7   | **User** | ------------------- |-------- |
+| 8   | User | ------------------- |-------- |
+| 9   | User | ------------------- |-------- |
+| 10  | User | ------------------- |-------- |
+| 11  | User | ------------------- |-------- |
+| 12  | User | ------------------- |-------- |
+| 13  | User | ------------------- |-------- |
+| 14  | User | ------------------- |-------- |
