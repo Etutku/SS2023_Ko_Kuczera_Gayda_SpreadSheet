@@ -20,15 +20,17 @@
 
 3.  **As a User** I want to be able to add pictures of people in my database so that they would be recognized by the software.
       - **Priority** --> 1
-      - [ ] All pictures must be 512px*512px.
+      - [x] All pictures must be 512px*512px.
       - [ ] Picture must be identical to the person.
       - [ ] User must add pictures into the separate directory in the program.
       - [ ] The name of the picture should be the same as person's ID number.
+      - [ ] If the picture is in the wrong fomat then the program will show an error.
 --------------------------------------------------------------------------------------------------------------------------------------------------
 4.  **As a User** I want to be able to change pictures of people in my database so that it would be up-to-date in case of any changes in appearance.
       - **Priority** --> 2
       - [ ] The picture has to be the same size as the previous one (512px*512px).
       - [ ] The new picture should have the same name as the old one which is person's ID number.
+      - [ ] If the picture is in the wrong fomat then the program will show an error.
 --------------------------------------------------------------------------------------------------------------------------------------------------
 5.  **As a User** I want to be able to remove a person from my database in case someone is not part of the organization, school, or etc any more so that the system wouldn't recognize them anymore.
       - **Priority** --> 2
