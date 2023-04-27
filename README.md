@@ -9,8 +9,8 @@
 | 1   | [**Project Description**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/README.md)  
 | 2   | [**User Stories**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/User_Stories.md) |
 | 3   | [**Acceptance Criteria**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/Acceptance_Criteria.md)   |        
-| 4   | [**Graphics**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/tree/main/FaceRecognition_ProjectBase/newmodes)   |
-| 5  | [**Modes**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/tree/main/FaceRecognition_ProjectBase/newmodes)   |  
+| 4   | [**Graphics**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/tree/main/FaceRecognition_ProjectBase/Graphics)   |
+| 5  | [**Modes**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/tree/main/FaceRecognition_ProjectBase/Modes)   |  
 
 ## Project Description 
 * Facial Detection and Facial Recognition are computer technologies used to detect human faces in a digital image or video and identify or confirm a person's identity using 
