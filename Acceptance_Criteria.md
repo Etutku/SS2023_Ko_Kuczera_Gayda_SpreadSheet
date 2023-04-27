@@ -1,7 +1,7 @@
 # Acceptance Criteria [Updated]
 --------------------------------------------------------------------------------------------------------------------------------------------------
 1. **As a User** I want database that will automatically upload data to the face recognition system up-to-date so that I don't need to manually input them again.
-      -**Priority** --> 1
+      - **Priority** --> 1
       - [ ] User must have an account for Firebase website.
       - [ ] User must create a real-time database on the Firebase website.
       - [ ] User must download a private key file from the website and add it to the program directory.
