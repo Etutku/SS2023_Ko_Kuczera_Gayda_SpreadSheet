@@ -59,15 +59,15 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------
 9. **As a User** I want to be able to set the time limit after which one person can be marked again so that it can fit my purpose for using this software.
       - **Priority** --> 2
-      - [ ] Personal details in python file must have a variable that stores last attendance time in a format of YYYY-MM-DD hh:mm:ss
+      - [x] Personal details in python file must have a variable that stores last attendance time in a format of YYYY-MM-DD hh:mm:ss
       - [ ] Before the user changes the time limit it is set to one minute as a default.
       - [ ] The time limit can be changed by the user (from 5 seconds to infinity)
 --------------------------------------------------------------------------------------------------------------------------------------------------
 10. **As a User** I want the system to show attendance status of the person taking the attendance so that he/she knows whether the attendance has been taken or not.
       - **Priority** --> 2
       - [ ] There should be 4 modes: 'Active', 'Marked', displayed information about a person recently marked and 'Already marked'. 
-      - [ ] 'Active' mode should appear when there is no face detected in the camera.
-      - [ ] 'Marked' mode should appear when someone was detected and the attendance was added.
+      - [x] 'Active' mode should appear when there is no face detected in the camera.
+      - [x] 'Marked' mode should appear when someone was detected and the attendance was added.
       - [ ]  Information about the person should appear after marked mode and be displayed for a few seconds.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
