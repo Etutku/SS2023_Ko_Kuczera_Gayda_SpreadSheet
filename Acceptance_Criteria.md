@@ -2,41 +2,42 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------
 1. **As a User** I want database that will automatically upload data to the face recognition system up-to-date so that I don't need to manually input them again.
       - **Priority** --> 1
-      - [ ] User must have an account for Firebase website.
-      - [ ] User must create a real-time database on the Firebase website.
-      - [ ] User must download a private key file from the website and add it to the program directory.
-      - [ ] User must add Admin SDK configuration provided by Firebase to the python file that is connected to the real-time database.
-      - [ ] Implement a secure and scalable database system to store attendance data, with optimized data structures and indexes to ensure fast and efficient data retrieval.
-
+      - [X] User must have an account for Firebase website.
+      - [X] User must create a real-time database on the Firebase website.
+      - [X] User must download a private key file from the website and add it to the program directory.
+      - [X] User must add Admin SDK configuration provided by Firebase to the python file that is connected to the real-time database.
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 2.  **As a User** I want to be able to add people's details and make modification to my database so that the database would include people and data necessary for my purpose of using this system. 
       - **Priority** --> 1
-      - [ ] Personal data must be in JSON format where key is the ID number and value is another key-value pair where kes are the field names (ex) name, DOB, etc) and values are personal details of each person.
-      - [ ] ID number is compulsory when adding a new person to the database.
-      - [ ] User cannot have more than one person in the database with the same ID number.
-      - [ ] If the User wants to change the ID number it cannot be the same as an ID number of any other person.
+      - [X] Personal data must be in JSON format where key is the ID number and value is another key-value pair where kes are the field names (ex) name, DOB, etc) and values are personal details of each person.
+      - [X]  ID number is a compulsory key identifying each person in the database.
+      - [X]  User can choose types of information (field) in the database but name is compulsory for operation of the system.
+      - [X] If the name is not present the program will show an error and won't add that person
+      - [X] User cannot have more than one person in the database with the same ID number. In such case, the program will count them as one person and the last occurence will be stored.
+      - [X] User cannot have more than one person in the database with the same ID number. In such case, the program will count them as one person and the last occurence will be stored.
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 3.  **As a User** I want to be able to add pictures of people in my database so that they would be recognized by the software.
       - **Priority** --> 1
-      - [x] All pictures must be 512px*512px.
-      - [ ] Picture must be identical to the person.
-      - [ ] User must add pictures into the separate directory in the program.
-      - [ ] The name of the picture should be the same as person's ID number.
-      - [ ] If the picture is in the wrong fomat then the program will show an error.
+      - [x] All pictures must be 185px*185px.
+      - [X] Picture must be identical to the person.
+      - [X] User must add pictures into the separate directory in the program.
+      - [X] The name of the picture should be the same as person's ID number.
+      - [X] If the picture is in the wrong fomat then the program will show an error.
+      - [X] The picture should be in .png format.
 --------------------------------------------------------------------------------------------------------------------------------------------------
 4.  **As a User** I want to be able to change pictures of people in my database so that it would be up-to-date in case of any changes in appearance.
       - **Priority** --> 2
-      - [ ] The picture has to be the same size as the previous one (512px*512px).
-      - [ ] The new picture should have the same name as the old one which is person's ID number.
-      - [ ] If the picture is in the wrong fomat then the program will show an error.
+      - [X] The picture has to be the same size as the previous one  (185px*185px).
+      - [x] The new picture should have the same name as the old one which is person's ID number.
+      - [X] If the picture is in the wrong fomat then the program will show an error.
 --------------------------------------------------------------------------------------------------------------------------------------------------
 5.  **As a User** I want to be able to remove a person from my database in case someone is not part of the organization, school, or etc any more so that the system wouldn't recognize them anymore.
       - **Priority** --> 2
-      - [ ] All the information about the person must be removed from the database.
-      - [ ] Picture must be removed from the directory as well.
-      - [ ] The system shouldn't recognize removed person anymore.
+      - [X] All the information about the person must be removed from the database.
+      - [X] Picture must be removed from the directory as well.
+      - [X] The system shouldn't recognize removed person anymore.
 --------------------------------------------------------------------------------------------------------------------------------------------------
 6.  **As a User** I want to be able to use webcam real-time so that the system will compare images and people's face to verify the identity for attendance.
       -**Priority** --> 1
