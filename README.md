@@ -8,10 +8,11 @@
 | --- | ----------------------------------------------------------------------- |
 | 1   | [**Project Description**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/README.md)  
 | 2   | [**User Stories**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/User_Stories.md) |
-| 4   | [**Instruction**](https://drive.google.com/file/d/1H5VArBx0FVuSUGGIQmN7Hvn5l0OB6fka/view)   |
+| 3   | [**Instruction**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/FaceRecognitionAttandanceSysytem/README.md)   |
 | 4   | [**Project Base**](https://drive.google.com/file/d/1H5VArBx0FVuSUGGIQmN7Hvn5l0OB6fka/view)   |
-| 3   | [**Acceptance Criteria**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/Acceptance_Criteria.md)   |        
-| 4   | [**Graphics/Modes**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/tree/main/FaceRecognition_ProjectBase/Graphics/Modes)   |
+| 5   | [**Project Repository**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/tree/main/FaceRecognitionAttandanceSysytem)   |
+| 6   | [**Acceptance Criteria**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/Acceptance_Criteria.md)   |        
+| 7   | [**Graphics/Modes**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/tree/main/FaceRecognition_ProjectBase/Graphics/Modes)   |
 
 
 ## Project Description 
