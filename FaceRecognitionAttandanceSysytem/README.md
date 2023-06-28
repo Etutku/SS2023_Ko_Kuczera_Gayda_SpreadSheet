@@ -10,7 +10,7 @@
 * Webcam or camera for real-time face detection
 
 ## Installation
-**1.** Install Python from the official website: Python.org
+**1.** Install Python from the official website: [Python.org](https://www.python.org/)
 
 **2.** Install OpenCV library by running the following command in your command prompt or terminal:
 ```pyhton
@@ -29,7 +29,7 @@ pip install face_recognition
 
 
 ## Running the System
-**1.** Download the project code from the GitHub repository: [Face Recognition Attendance System](https://drive.google.com/file/d/1H5VArBx0FVuSUGGIQmN7Hvn5l0OB6fka/view)
+**1.** Download the project code from the Drive: [FaceRecognition.zip](https://drive.google.com/file/d/1H5VArBx0FVuSUGGIQmN7Hvn5l0OB6fka/view)
 
 **2.** Extract the downloaded ZIP file to a folder on your computer.
 
@@ -37,7 +37,7 @@ pip install face_recognition
 
 **4.** Run the following command to start the attendance system:
 ```pyhton
-python attendance_system.py
+python main.py
 ```
 **5.** The webcam or camera will be activated, and you'll see a live video feed with face detection and recognition.
 
