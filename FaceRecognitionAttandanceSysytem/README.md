@@ -36,15 +36,19 @@ pip install face_recognition
 
 **3.** Open a command prompt or terminal and navigate to the project folder.
 
-**4.** Run the following command to start the attendance system:
+**4.** Add links to the database with [serviceaccountkey](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/FaceRecognitionAttandanceSysytem/serviceAccountKey.json), and add all images to run [Encode Generator](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/FaceRecognitionAttandanceSysytem/EncodeGenerator.py).
+
+**5.** Add people with [AddToDatabase](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/FaceRecognitionAttandanceSysytem/AddDataToDatabase.py).
+
+**6.** Run the following command to start the attendance system [main.py](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/FaceRecognitionAttandanceSysytem/main.py):
 ```pyhton
 python main.py
 ```
-**5.** The webcam or camera will be activated, and you'll see a live video feed with face detection and recognition.
+**7.** The webcam or camera will be activated, and you'll see a live video feed with face detection and recognition.
 
-**6.** The system will automatically detect and recognize faces. It will display the recognized names on the screen and mark attendance in a CSV file.
+**8.** The system will automatically detect and recognize faces. It will display the recognized names on the screen and mark attendance in a CSV file.
 
-**7.** Press 'Q' on your keyboard to stop the attendance system.
+**9.** Press 'Q' on your keyboard to stop the attendance system.
 
 ## Further Steps  ( with using another database)
 **Step 1 Set up Firebase**
