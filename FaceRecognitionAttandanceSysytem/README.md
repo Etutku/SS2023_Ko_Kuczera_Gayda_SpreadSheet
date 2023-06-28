@@ -47,34 +47,34 @@ python main.py
 **7.** Press 'Q' on your keyboard to stop the attendance system.
 
 ## Further Steps  ( with using another database)
-**Step 1** Set up Firebase 
+**Step 1 Set up Firebase**
 * Create a Firebase account at [firebase.google.com] (firebase.google.com) if you don't have one already.
 * Because of this is completed project, existed firebase would be using.
 * If new firebase needed, set up a new Firebase project for your face recognition attendance system.
 * Enable Firebase Authentication and create an authentication method that suits your requirements (e.g., email/password, Google, etc.)
 * Enable Firebase Realtime Database and Firebase Storage.
 
-**Step 2** Set up Development Environment
+**Step 2 Set up Development Environment**
 * Install the necessary software and libraries (mentioned in  the Installation)
 * Set up a virtual environment for your project to manage dependencies.
 
-**Step 3** Collect and preprocess face images
+**Step 3 Collect and preprocess face images**
 * Use a webcam or camera to capture face images of individuals whose attendance you want to track.
 * Save  images in a directory on your local system.
 
-**Step 4** Adding Firebase to the System
+**Step 4 Adding Firebase to the System**
 * Load the pre-trained face recognition model. [FaceRecognition.zip](https://drive.google.com/file/d/1H5VArBx0FVuSUGGIQmN7Hvn5l0OB6fka/view)
 * Initialize the Firebase SDK.
 *  Implement functions to detect and recognize faces in real-time.
 * Connect to the Firebase Realtime Database and create the necessary data structure to store attendance information.
 * Store the recognized face along with the current timestamp in the database when a face is detected.
 
-**Step 5** Deploy and Test the System 
+**Step 5 Deploy and Test the System**
 * Deploy the system desired platform  (PyCharm)
 * Verify that the attendance data is being stored correctly in the Firebase Realtime Database.
 * Ensure that the user interface displays the attendance information accurately.
 
-**Step 6** Optional Firebase Storage 
+**Step 6 Optional Firebase Storage** 
 * If you want to store the captured face images, set up Firebase Storage.
 * Implement functionality to upload the captured images to Firebase Storage.
 * Store the image URLs or references in the Firebase Realtime Database along with the attendance data.
