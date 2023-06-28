@@ -16,3 +16,4 @@
 | **13**|**1**|**User** | view data about specific person in mt database |I can find the information I am currently looking for. |
 | **14**|**2**| **User** | see when was the last time someone was present |I do not have to check them manually. |
 | **15**|**3**|**User** | see how many people are in the database, | I do not have to count them manually. |
+| **16**|**3**|**User** |see what the current time is  | I know when my attendence is taken. |
