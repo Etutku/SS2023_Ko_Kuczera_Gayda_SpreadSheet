@@ -12,7 +12,7 @@
 | 4   | [**Project Base**](https://drive.google.com/file/d/1H5VArBx0FVuSUGGIQmN7Hvn5l0OB6fka/view)   |
 | 5   | [**Project Repository**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/tree/main/FaceRecognitionAttandanceSysytem)   |
 | 6   | [**Acceptance Criteria**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/Acceptance_Criteria.md)   |        
-| 7   | [**Graphics/Modes**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/tree/main/FaceRecognition_ProjectBase/Graphics/Modes)   |
+| 7   | [**Graphics/Modes**](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/tree/main/FaceRecognitionAttandanceSysytem/graphics)   |
 
 
 ## Project Description 
