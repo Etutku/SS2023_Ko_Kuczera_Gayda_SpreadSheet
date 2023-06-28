@@ -36,7 +36,8 @@ pip install face_recognition
 
 **3.** Open a command prompt or terminal and navigate to the project folder.
 
-**4.** Add links to the database with [serviceaccountkey](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/FaceRecognitionAttandanceSysytem/serviceAccountKey.json), and add all images to run [Encode Generator](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/FaceRecognitionAttandanceSysytem/EncodeGenerator.py).
+**4.** Add links to the database with [serviceaccountkey](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/FaceRecognitionAttandanceSysytem/serviceAccountKey.json), and add all images to run [Encode Generator](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/FaceRecognitionAttandanceSysytem/EncodeGenerator.py). 
+ - The links to the database should be added to: [AddToDatabase](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/FaceRecognitionAttandanceSysytem/AddDataToDatabase.py), [Encode Generator](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/FaceRecognitionAttandanceSysytem/EncodeGenerator.py) and [main.py](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/FaceRecognitionAttandanceSysytem/main.py)
 
 **5.** Add people with [AddToDatabase](https://github.com/Etutku/SS2023_Ko_Kuczera_Gayda_SpreadSheet/blob/main/FaceRecognitionAttandanceSysytem/AddDataToDatabase.py).
 
@@ -78,7 +79,7 @@ python main.py
 * Verify that the attendance data is being stored correctly in the Firebase Realtime Database.
 * Ensure that the user interface displays the attendance information accurately.
 
-**Step 6 Optional Firebase Storage** 
+**Step 6 Firebase Storage** 
 * If you want to store the captured face images, set up Firebase Storage.
 * Implement functionality to upload the captured images to Firebase Storage.
 * Store the image URLs or references in the Firebase Realtime Database along with the attendance data.
